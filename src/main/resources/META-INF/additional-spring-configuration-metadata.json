@@ -1,0 +1,11 @@
+{
+  "groups": [],
+  "properties": [
+    {
+      "name": "spring.cloud.gateway.config.nacos.enabled",
+      "type": "java.lang.Boolean",
+      "description": "Whether to load config from nacos.",
+      "defaultValue": false
+    }
+  ]
+}
